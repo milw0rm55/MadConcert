@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "468525430410",
+    "firebase_url": "https://madconcert-fb06e.firebaseio.com",
+    "project_id": "madconcert-fb06e",
+    "storage_bucket": "madconcert-fb06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468525430410:android:e2e9bef33d4a80e2",
+        "android_client_info": {
+          "package_name": "com.madconcert.buguisos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468525430410-vuqutbvqbf9g2r0pbp7ba8k4n398mptj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTw99I13Mqt7RRZZfkv4so6yJVuyOTUgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468525430410:android:00933793624ceb37",
+        "android_client_info": {
+          "package_name": "ml.milw0rm.madconcert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468525430410-vuqutbvqbf9g2r0pbp7ba8k4n398mptj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTw99I13Mqt7RRZZfkv4so6yJVuyOTUgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
